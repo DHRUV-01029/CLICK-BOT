@@ -1,0 +1,19 @@
+{ 
+	"account":{
+		"api_id": "2496118",
+		"api_hash": "8e49bf44e7eeadf25e6f019d244771b5"
+	},
+	
+	"cloud_flare":{
+	    "cf_user_agent":"Comming Soon",
+	    "cf_cookies": "Comming Soon"
+	},
+	
+	"auto_visit_count": "5000",
+	"auto_msg_count": "5000",
+	"auto_join_count": "20",
+	"auto_wd_on_off": "on",
+	
+	"auto_reff_file": "list.txt",
+	"number_file": "list.txt"
+}
